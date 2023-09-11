@@ -9,5 +9,5 @@ Mas descripcion del proyecto
 
 # Lista de gente
 
-- Ani
-- Migue
+- Anabella Rizzi
+- Migue Duarte
