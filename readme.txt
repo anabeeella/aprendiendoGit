@@ -6,3 +6,8 @@ Mas holas mas manolas
 Este proyecto es un coso re loco que está re bueno.
 
 Mas descripcion del proyecto
+
+# Lista de gente
+
+- Ani
+- Migue
